@@ -49,7 +49,7 @@ export default function GetEvents() {
         <code>{code}</code>
       </pre>
 
-      <h4>Demo</h4>
+      {/* <h4>Demo</h4>
 
       <Button
         label={loading ? "..." : "Get Events"}
@@ -63,7 +63,7 @@ export default function GetEvents() {
         return content.map(({ type, value }, i) => {
           if (type === "text") return <span key={index}>{value}</span>;
         });
-      })}
+      })} */}
     </>
   );
 }
