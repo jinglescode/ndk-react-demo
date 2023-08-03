@@ -345,10 +345,10 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@nostr-dev-kit/ndk-react@0.1.0":
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/@nostr-dev-kit/ndk-react/-/ndk-react-0.1.0.tgz#9434a68023349b63537974f25e1dfd5186f1b44c"
-  integrity sha512-6TRNu5tbFVG/GfICfqoDXv8B1R5j/sJlVJnoXhaiiMLQwlQ5NXwSEy1LL4sTsbwt//msMEJueYt9896STdbe3Q==
+"@nostr-dev-kit/ndk-react@^0.1.1":
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/@nostr-dev-kit/ndk-react/-/ndk-react-0.1.1.tgz#e812fee6264515bca56810517e226fc1ae367f8c"
+  integrity sha512-iUDK2yYx3uo3epgZPPFAU11yQZppNioaOkQ4gkS2hNXoS2/H6dwvgSrVIWEZD2u41QyipDk+lD8juSIiYRNeTA==
   dependencies:
     ramda "^0.29.0"
 

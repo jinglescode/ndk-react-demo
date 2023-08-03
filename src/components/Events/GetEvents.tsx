@@ -1,7 +1,6 @@
 import { useState } from "react";
 import { NDKFilter, NDKEvent } from "@nostr-dev-kit/ndk";
-import { useNDK, parseContent } from "@nostr-dev-kit/ndk-react";
-import Button from "../common/button";
+import { useNDK } from "@nostr-dev-kit/ndk-react";
 
 export default function GetEvents() {
   const { fetchEvents } = useNDK();
